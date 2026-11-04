@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guranshtraders-pixel.github.io/gt_aqua/sitemap.xml
